@@ -18,4 +18,5 @@ demo.py                          # Script to demonstrate usage of the support en
 ## References
 
 [1] V. Bonifaci. Computational Game Theory (lecture notes) https://ricerca.matfis.uniroma3.it/users/vbonifaci/tcs/cgt1.pdf
+
 [2] Nisan N, Roughgarden T, Tardos E, Vazirani VV, eds. Algorithmic Game Theory. Cambridge University Press; 2007.
