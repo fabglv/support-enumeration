@@ -2,7 +2,7 @@
 
 An implementation of the support enumeration algorithm that computes all Nash equilibria of a non-degenerate two-player game in normal form, as described in [1]. Another similar description is available in section 3.2 of [2].
 
-# Description
+## Description
 
 The algorithm systematically enumerates all possible support combinations for the two players and checks whether a valid equilibrium strategy exists for each support pair by solving a linear program. If so, it records the corresponding strategies. The linear programs are solved using **SciPy**'s **linprog**.
 
